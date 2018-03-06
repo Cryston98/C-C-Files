@@ -1,0 +1,6 @@
+	 NUME       NOTA
+	Razvan 		 10
+	Marius 		 9
+	Ionut 		 2
+	Cata		 7
+	
