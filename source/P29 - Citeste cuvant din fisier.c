@@ -18,7 +18,7 @@ int main()
 
     while(fscanf(f,"%100s",cuvant)!=EOF)
         {
-          if(cuvant[1]=='l')
+          if(cuvant[0]=='A') /**TESTEAZA DACA CUVANTUL INCEPE CU LITERA 'A' */
              printf("%s\n",cuvant);
         }
     return 0;
